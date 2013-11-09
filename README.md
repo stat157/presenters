@@ -4,8 +4,8 @@ presenters
 Members:
 
 | Name             | Email  | Github |
-| -------------    |:------:||:------:| 
-| Alex Chao | alexchao56@gmail.com | |
+| -------------    |:------:|:----:| 
+| Alex Chao | alexchao56@gmail.com |  |
 | Laura Cunningham | lauraccunningham@gmail.com | |
 | Lorraine Hsiao | lorraineh@berkeley.edu | |
 | Alyssa Parker | alyssaparker@berkeley.edu | |

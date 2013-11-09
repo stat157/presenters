@@ -1,7 +1,9 @@
 presenters
 ==========
 
-| Name             | Email  | Github
+Members:
+
+| Name             | Email  | Github |
 | -------------    |:------:||:------:| 
 | Alex Chao | alexchao56@gmail.com | |
 | Laura Cunningham | lauraccunningham@gmail.com | |

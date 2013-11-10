@@ -13,6 +13,6 @@ Members:
 | Tseng Kuanwei | kuanwei.tseng@gmail.com | |
 | Wen Liang | liangwenyan99@gmail.com | |
 | Brian Liou | brian.liou91@gmail.com | |
-| Carl Shan | shan.carl@gmail.com | |
+| Carl Shan | shan.carl@gmail.com | | carlshan
 | Roland Shen | rolandshen@berkeley.edu | |
 | David Wang | davidwang001@berkeley.edu | |

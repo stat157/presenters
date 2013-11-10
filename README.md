@@ -7,7 +7,7 @@ Members:
 | -------------    |:------:|:----:| 
 | Alex Chao | alexchao56@gmail.com |  |
 | Laura Cunningham | lauraccunningham@gmail.com | |
-| Lorraine Hsiao | lorraineh@berkeley.edu | |
+| Lorraine Hsiao | lorraineh@berkeley.edu | lorrainehsiao |
 | Alyssa Parker | alyssaparker@berkeley.edu | |
 | Yoojin Jang | all4ujin@berkeley.edu | all4ujin |
 | Tseng Kuanwei | kuanwei.tseng@gmail.com | |
